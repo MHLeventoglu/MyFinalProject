@@ -1,5 +1,9 @@
-﻿using Business.Abstract;
+﻿using System.ComponentModel.DataAnnotations;
+using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspect.Autofac.Validation;
+using Core.CrossCuttingConcern.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -50,16 +54,21 @@ public class ProductManager : IProductService
         }
         return new SuccessDataResult<List<ProductDetailDto>>(_productDal.GetProductDetails());
     }
-
+[ValidationAspect(typeof(ProductValidator))]
     public IResult Add(Product product)
     {
         // business codes
-        if (product.ProductName != null && product.ProductName.Length<2)
+        /*
+        var context = new ValidationContext<Product>(product);
+        ProductValidator productValidator = new ProductValidator();
+        var result = productValidator.Validate(context);
+        if (!result.IsValid)
         {
-            return new ErrorResult(Messages.ProductNameInvalid);
+            throw new ValidationException(result.Errors);
         }
+        */
+        
         _productDal.Add(product); 
-        Console.WriteLine("{0} successfully added",product.ProductName);
-        return new SuccessResult(Messages.ProductAdded);
+        return new SuccessResult(product.ProductName + "-" + Messages.ProductAdded);
     }
 }

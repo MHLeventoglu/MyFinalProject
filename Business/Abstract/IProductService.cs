@@ -13,5 +13,6 @@ public interface IProductService
     IDataResult<List<Product>> GetAllByUnitPrice(decimal min, decimal max);
     IDataResult<List<ProductDetailDto>> GetProductDetails();
     IResult Add(Product product);
+    IResult Update(Product product);
     
 }

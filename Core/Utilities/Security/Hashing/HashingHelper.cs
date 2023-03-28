@@ -26,8 +26,8 @@ public class HashingHelper
                 }
 
             }
-        }
-        return true;
+            return true;
 
+        }
     }
 }

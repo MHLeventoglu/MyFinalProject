@@ -61,12 +61,7 @@ C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\Consol
 C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\Core.dll
 C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\Core.pdb
 C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\Autofac.dll
@@ -74,3 +69,12 @@ C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\Consol
 C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\Autofac.Extras.DynamicProxy.dll
 C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\Castle.Core.dll
 C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mhlev\Desktop\ \MyCoddingTraining\C#\C#Projects\MyFinalProject\ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

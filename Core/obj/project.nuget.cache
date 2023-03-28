@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iyqK0tvqRiG5k7zTQpjRN8LLEPgTsZ+aRJjT+WkBY88ufSwuJL2lyD8caGom5oHiL6Z4YR6B3FCykaTUnjQ4tg==",
+  "dgSpecHash": "KqJFH3qYv2aFwR0QWI4xOJOJfH8I7ntgTRA3FHqCU3OHfP+oF2Yf4jX4QRuTnW77K1gbooQYLHWCCdmzWyyn3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\mhlev\\Desktop\\ \\MyCoddingTraining\\C#\\C#Projects\\MyFinalProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,9 @@
     "C:\\Users\\mhlev\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.2\\microsoft.entityframeworkcore.sqlserver.7.0.2.nupkg.sha512",
     "C:\\Users\\mhlev\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\mhlev\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\mhlev\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\mhlev\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mhlev\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
     "C:\\Users\\mhlev\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\mhlev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\mhlev\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
